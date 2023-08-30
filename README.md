@@ -1,0 +1,1 @@
+The purpose of this project is to showcase some recipe. i will be implementing what i have learnt in HTML so far
